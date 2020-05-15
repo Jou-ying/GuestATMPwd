@@ -89,6 +89,7 @@ class ViewController: UIViewController {
             
         }
         
+        self.resultLabel.text = ""
         
         self.currentGuestWordIndex = 0
         
